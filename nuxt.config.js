@@ -65,7 +65,7 @@ export default {
       { rel: "apple-touch-icon", media: "(prefers-color-scheme: dark)", sizes: "144x144", href: "/light-apple-touch-icon-144x144.png" },
       { rel: "apple-touch-icon", media: "(prefers-color-scheme: dark)", sizes: "152x152", href: "/light-apple-touch-icon-152x152.png" },
       { rel: "apple-touch-icon", media: "(prefers-color-scheme: dark)", sizes: "180x180", href: "/light-apple-touch-icon-180x180.png" },
-      ...canonicalLinks
+//       ...canonicalLinks
     ]
   },
 
