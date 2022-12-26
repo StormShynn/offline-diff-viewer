@@ -6,7 +6,7 @@ const BASE_URL = "https://offline-diff-viewer-y683.vercel.app";
 //   "https://diffie.vercel.app/",
 //   "https://differencefinder.vercel.app/"
 // ]
-const canonicalLinks = domainAliases.map(x => ({ rel: "canonical", href: x }))
+// const canonicalLinks = domainAliases.map(x => ({ rel: "canonical", href: x }))
 const DESCRIPTION = "A privacy first diff viewer that is secure, easy, simple and for any text type";
 export default {
   ssr: true,
